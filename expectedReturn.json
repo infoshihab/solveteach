@@ -1,0 +1,67 @@
+{
+  "slide": {
+    "title": "Expected Returns",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "text",
+        "text": "Expected Returns",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "position": "top-left"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Class",
+          "Preferred Return",
+          "Equity Multiple",
+          "Annualized Return"
+        ],
+        "rows": [
+          ["Class A", "17% Preferred", "1.85X", "17%"],
+          ["Class B", "7% Preferred", "2.3X", "26%"]
+        ],
+        "rowColors": ["#D88B4C", "#F2A343"],
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D"
+      },
+      {
+        "type": "text",
+        "text": "Risk Return Classification",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "position": "top-left",
+        "marginTop": "20px"
+      },
+      {
+        "type": "table",
+        "headers": ["Class", "Range", "Depreciation", "Profit From Sale"],
+        "rows": [
+          ["Class A", "Fixed Returns Paid Y-O-Y", "YES", "NO"],
+          ["Class B", "Potential High Returns", "YES", "YES"]
+        ],
+        "rowColors": ["#D88B4C", "#F2A343"],
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D"
+      },
+      {
+        "type": "text",
+        "text": "Class B bears higher risk & receives higher returns",
+        "fontSize": "16px",
+        "textColor": "#F8B400",
+        "position": "bottom-center",
+        "fontWeight": "italic"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

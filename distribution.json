@@ -1,0 +1,50 @@
+{
+  "slide": {
+    "title": "Distribution at Sale at $53M",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "item": "D",
+        "header": "Distribution Breakdown",
+        "chart": {
+          "type": "pie_chart",
+          "data": {
+            "labels": [
+              "Loan Payoff",
+              "LP equity Base",
+              "LP Profit After Sale",
+              "GP Profit After Sale",
+              "Closing Cost",
+              "GP Disposition Fee"
+            ],
+            "values": [43, 20, 23, 9, 2, 3],
+            "colors": [
+              "#D32F2F",
+              "#1976D2",
+              "#388E3C",
+              "#0288D1",
+              "#7B1FA2",
+              "#FBC02D"
+            ],
+            "total": "$53,000,000"
+          }
+        },
+        "details": [
+          "Loan Payoff ($22,790,000)",
+          "LP equity Base ($10,600,000)",
+          "LP Profit After Sale ($12,190,000)",
+          "GP Profit After Sale ($4,770,000)",
+          "Closing Cost ($1,590,000)",
+          "GP Disposition Fee ($1,060,000)"
+        ],
+        "backgroundColor": "#5F4874",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

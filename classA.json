@@ -1,0 +1,99 @@
+{
+  "slide": {
+    "title": "Sample Return for Investment Class A",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "text",
+        "text": "Sample Projected Return for $300K",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#1E3A5D",
+        "backgroundColor": "#F2A343",
+        "position": "top-left"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Member Return",
+          "YEAR-1",
+          "YEAR-2",
+          "YEAR-3",
+          "YEAR-4",
+          "YEAR-5",
+          "Total Return"
+        ],
+        "rows": [
+          [
+            "Beginning Member Capital Invested",
+            "300,000",
+            "300,000",
+            "300,000",
+            "300,000",
+            "300,000",
+            "1,500,000"
+          ],
+          [
+            "Preferred Return (17%)",
+            "51,000",
+            "51,000",
+            "51,000",
+            "51,000",
+            "51,000",
+            "255,000"
+          ],
+          ["Return of Member Capital", "-", "-", "-", "-", "-", "-"],
+          [
+            "Cash on Cash Return",
+            "17.00%",
+            "17.00%",
+            "17.00%",
+            "17.00%",
+            "17.00%",
+            "-"
+          ],
+          [
+            "Total Return on Investment",
+            "85%",
+            "85%",
+            "85%",
+            "85%",
+            "85%",
+            "555,000"
+          ]
+        ],
+        "rowColors": ["#D88B4C", "#F2A343", "#FFFFFF", "#FFFFFF", "#F2A343"],
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D"
+      },
+      {
+        "type": "text",
+        "text": "Summary",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "position": "bottom-left"
+      },
+      {
+        "type": "summary",
+        "items": [
+          { "label": "Total Return", "value": "85%" },
+          { "label": "Minimum Investment", "value": "$300K" },
+          { "label": "Preferred Return", "value": "17%" },
+          { "label": "Annualized Return", "value": "17%" },
+          { "label": "Equity Multiple", "value": "1.85x" },
+          { "label": "Bonus Depreciation in Year-1", "value": "$57K" },
+          { "label": "Total Depreciation from Yr-2 to Yr-5", "value": "$87K" }
+        ],
+        "backgroundColor": "#F8B400",
+        "textColor": "#1E3A5D"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

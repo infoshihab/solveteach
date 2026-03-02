@@ -1,124 +1,123 @@
 {
   "slide": {
-    "title": "Property Overview",
-    "section": "Vail Apartments",
-    "layout": {
-      "type": "image",
-      "style": {
-        "background": "image",
-        "image": "property_building_image",
-        "elements": [
-          {
-            "type": "text",
-            "position": {
-              "x": 0.05,
-              "y": 0.85
-            },
-            "content": "PROPERTY Details",
-            "style": {
-              "font": "bold",
-              "size": "large",
-              "color": "#ffffff",
-              "background": "#002f6c"
-            }
-          },
-          {
-            "type": "text",
-            "position": {
-              "x": 0.05,
-              "y": 0.75
-            },
-            "content": "Class B Location, Class B- Building",
-            "style": {
-              "font": "bold",
-              "size": "medium",
-              "color": "#ffffff",
-              "background": "#004f87"
-            }
-          },
-          {
-            "type": "box",
-            "position": {
-              "x": 0.05,
-              "y": 0.65
-            },
-            "content": [
-              {
-                "text": "411 Units / 318,772 SQFT",
-                "description": "Total SQFT",
-                "style": {
-                  "background": "#2e78a6",
-                  "color": "#ffffff",
-                  "font": "bold"
-                }
-              },
-              {
-                "text": "Northwest by US-290",
-                "description": "Location",
-                "style": {
-                  "background": "#1f6c6d",
-                  "color": "#ffffff",
-                  "font": "bold"
-                }
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "position": {
-              "x": 0.55,
-              "y": 0.65
-            },
-            "content": [
-              {
-                "text": "Houston (2nd Largest Population Growth)",
-                "description": "MSA",
-                "style": {
-                  "background": "#4d7595",
-                  "color": "#ffffff",
-                  "font": "bold"
-                }
-              },
-              {
-                "text": "1977-78, 2018-23",
-                "description": "Construction | Recent Renovation",
-                "style": {
-                  "background": "#335c7f",
-                  "color": "#ffffff",
-                  "font": "bold"
-                }
-              }
-            ]
-          },
-          {
-            "type": "box",
-            "position": {
-              "x": 0.05,
-              "y": 0.55
-            },
-            "content": [
-              {
-                "text": "$32.38M ($79K/unit)",
-                "description": "Purchase Price",
-                "style": {
-                  "background": "#af9e5f",
-                  "color": "#ffffff",
-                  "font": "bold"
-                }
-              },
-              {
-                "text": "94.7%",
-                "description": "Occupancy",
-                "style": {
-                  "background": "#85b68b",
-                  "color": "#ffffff",
-                  "font": "bold"
-                }
-              }
-            ]
-          }
-        ]
+    "title": "Sample Return for Investment Class B",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "text",
+        "text": "Sample Projected Return for $100K",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#1E3A5D",
+        "backgroundColor": "#F2A343",
+        "position": "top-left"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Member Return",
+          "YEAR-1",
+          "YEAR-2",
+          "YEAR-3",
+          "YEAR-4",
+          "YEAR-5",
+          "Total Return"
+        ],
+        "rows": [
+          [
+            "Beginning Member Capital Invested",
+            "100,000",
+            "100,000",
+            "100,000",
+            "100,000",
+            "100,000",
+            "500,000"
+          ],
+          [
+            "Preferred Return (7%)",
+            "7,000",
+            "7,000",
+            "7,000",
+            "7,000",
+            "7,000",
+            "35,000"
+          ],
+          [
+            "Profit from Sale at the end of Yr-5",
+            "-",
+            "-",
+            "-",
+            "95,000",
+            "95,000",
+            "190,000"
+          ],
+          [
+            "Return of Member Capital",
+            "-",
+            "-",
+            "-",
+            "-",
+            "100,000",
+            "100,000"
+          ],
+          [
+            "Cash on Cash Return",
+            "7.00%",
+            "7.00%",
+            "7.00%",
+            "7.00%",
+            "7.00%",
+            "-"
+          ],
+          [
+            "Total Return on Investment",
+            "130%",
+            "130%",
+            "130%",
+            "130%",
+            "130%",
+            "230,000"
+          ]
+        ],
+        "rowColors": [
+          "#D88B4C",
+          "#F2A343",
+          "#FFFFFF",
+          "#FFFFFF",
+          "#F2A343",
+          "#D88B4C"
+        ],
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D"
+      },
+      {
+        "type": "text",
+        "text": "Summary",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "position": "bottom-left"
+      },
+      {
+        "type": "summary",
+        "items": [
+          { "label": "Total Return", "value": "130%" },
+          { "label": "Minimum Investment", "value": "$100K" },
+          { "label": "Preferred Return", "value": "7%" },
+          { "label": "Annualized Return", "value": "26%" },
+          { "label": "Equity Multiple", "value": "2.3x" },
+          { "label": "Bonus Depreciation in Year-1", "value": "$19K" },
+          { "label": "Total Depreciation from Yr-2 to Yr-5", "value": "$29K" }
+        ],
+        "backgroundColor": "#F8B400",
+        "textColor": "#1E3A5D"
       }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
     }
   }
 }

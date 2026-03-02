@@ -1,0 +1,42 @@
+{
+  "slide": {
+    "title": "Exit Strategies",
+    "subtitle": "Step 3",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "item": "A",
+        "header": "Exit in 5 Years",
+        "icon": "exit_icon_url_or_path",
+        "backgroundColor": "#D4A736",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "item": "B",
+        "header": "CoStar Projection",
+        "icon": "costar_icon_url_or_path",
+        "backgroundColor": "#F1C167",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "item": "C",
+        "header": "Cap Rate Sensitivity",
+        "icon": "cap_rate_icon_url_or_path",
+        "backgroundColor": "#A7C1D1",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "item": "D",
+        "header": "Distribution at Sale",
+        "icon": "distribution_icon_url_or_path",
+        "backgroundColor": "#5F4874",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

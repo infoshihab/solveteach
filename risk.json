@@ -1,0 +1,84 @@
+{
+  "slide": {
+    "title": "Risk Factors and Mitigations",
+    "subtitle": "We have carefully thought through the downside risks of this transaction",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "section",
+        "header": "Factor 3",
+        "position": "top-left",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "items": [
+          {
+            "risk": "Sustainable Rents",
+            "number": "01",
+            "mitigation": [
+              "Houston is the 4th largest MSA, and the Secondary markets are growing.",
+              "Tight submarket with limited new supply.",
+              "New construction for Class A only.",
+              "High demand for workforce housing.",
+              "High price gap between Class A vs B and C properties."
+            ],
+            "riskColor": "#FFAB00",
+            "mitigationColor": "#65AEDD"
+          },
+          {
+            "risk": "Interest Rates Fluctuations",
+            "number": "02",
+            "mitigation": [
+              "No impact since our Agency Loan will be at a Fixed Rate.",
+              "Fixed rate lock-in will be for 7-year or 10-year period provides assurance in uncertain times.",
+              "If interest rate are on the downside in next 2 years, we can consider re-finance."
+            ],
+            "riskColor": "#1D70A2",
+            "mitigationColor": "#6A9BCC"
+          },
+          {
+            "risk": "Prolonged Downturn",
+            "number": "03",
+            "mitigation": [
+              "Cash flowing property from Day-1.",
+              "Average Cash-on-cash (CoC) of @8.5%.",
+              "Decent cushion of Average rent affordability is $1,950 versus our average rent is $1,073.",
+              "Seller covered quite a few Interior and Exterior upgrades."
+            ],
+            "riskColor": "#D1B500",
+            "mitigationColor": "#D3A9C1"
+          },
+          {
+            "risk": "Liquidity",
+            "number": "04",
+            "mitigation": [
+              "Raising $237K for Working Capital, Reserves.",
+              "3 months of reserves for Operating expenses.",
+              "Maintain replacement reserves of $15k from Year-1 itself.",
+              "Adequate reserves for weather related events."
+            ],
+            "riskColor": "#5B9BD5",
+            "mitigationColor": "#B7D8F0"
+          },
+          {
+            "risk": "Expense Control",
+            "number": "05",
+            "mitigation": [
+              "Fully optimizing large expenses.",
+              "New Property Management Company will manage remotely, repairs as-needed, on-call.",
+              "Monitor material purchases for efficiencies."
+            ],
+            "riskColor": "#B74B00",
+            "mitigationColor": "#FA8C00"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

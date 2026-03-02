@@ -1,0 +1,94 @@
+{
+  "slide": {
+    "title": "Value Add Opportunities (Exterior)",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "grid",
+      "style": {
+        "background": "image",
+        "image": "value_add_opportunity_exterior_image",
+        "elements": [
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.05
+            },
+            "content": "A Value Add Opportunities (Exterior)",
+            "style": {
+              "font": "bold",
+              "size": "large",
+              "color": "#ffffff",
+              "background": "#2C3E50"
+            }
+          },
+          {
+            "type": "section",
+            "position": {
+              "x": 0.05,
+              "y": 0.2
+            },
+            "content": [
+              {
+                "type": "box",
+                "style": {
+                  "background": "#34495E",
+                  "padding": "10px"
+                },
+                "content": [
+                  {
+                    "type": "icon_text",
+                    "icon": "remote_leasing_icon",
+                    "text": "Transition to Remote Leasing to add 1 upgraded Unit to the market"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "style": {
+                  "background": "#2C3E50",
+                  "padding": "10px"
+                },
+                "content": [
+                  {
+                    "type": "icon_text",
+                    "icon": "financial_icon",
+                    "text": "Transition to Remote Leasing to add 1 upgraded Unit to the market"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "style": {
+                  "background": "#E74C3C",
+                  "padding": "10px"
+                },
+                "content": [
+                  {
+                    "type": "icon_text",
+                    "icon": "growth_icon",
+                    "text": "Transition to Remote Leasing to add 1 upgraded Unit to the market"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "style": {
+                  "background": "#16A085",
+                  "padding": "10px"
+                },
+                "content": [
+                  {
+                    "type": "icon_text",
+                    "icon": "home_upgrade_icon",
+                    "text": "Transition to Remote Leasing to add 1 upgraded Unit to the market"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

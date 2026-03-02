@@ -1,0 +1,55 @@
+{
+  "slide": {
+    "title": "We Partner With Industry Leaders",
+    "subtitle": "Advisory Team",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "section",
+        "header": "Factor 2",
+        "position": "top-left",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "items": [
+          {
+            "name": "Grable & Martin PLLC",
+            "title": "Syndication & Real Estate Attorney",
+            "description": "Massive Capital has a prior working relationship with Legal Team who are well known within Syndication Community for SEC Documentation, Setting up LLC, PPM, OA and Transaction close.",
+            "image": "grable_martin_image_url_or_path"
+          },
+          {
+            "name": "Cantrell McCullough Inc.",
+            "title": "Property Tax Litigation",
+            "description": "We have working relationship with Property Tax Litigation team, and we are confident to keep tax appraisal basis lower compared to purchase price.",
+            "image": "cantrell_mccullough_image_url_or_path"
+          },
+          {
+            "name": "Banyan Equity Management, LLC",
+            "title": "Property Management",
+            "description": "Banyan is a full-service Property Management company based out of Houston, TX. Banyan delivers hands-on service in multiple Apartment communities mostly in TX but primarily focused on Houston MSA.",
+            "image": "banyan_equity_management_image_url_or_path"
+          },
+          {
+            "name": "Seth & Alexander",
+            "title": "Certified Public Accountant",
+            "description": "We have been working with Seth & Alexander as CPAs to manage booking keeping, reporting, and taxes for properties and sponsor entity.",
+            "image": "seth_alexander_image_url_or_path"
+          },
+          {
+            "name": "Madison Specs",
+            "title": "Cost Segregation",
+            "description": "We plan to perform a cost segregation study and elect year 1 bonus depreciation for 2024. The year 1 bonus depreciation estimate is ~60%+ of every $100k investment.",
+            "image": "madison_specs_image_url_or_path"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

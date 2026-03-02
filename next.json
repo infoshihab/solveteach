@@ -1,0 +1,58 @@
+{
+  "slide": {
+    "title": "Next Steps",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "text",
+        "text": "Next Steps",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#1E3A5D",
+        "position": "top-left",
+        "backgroundColor": "#F2A343"
+      },
+      {
+        "type": "flowchart",
+        "steps": [
+          {
+            "step": "Submit",
+            "description": "Submit soft commitment",
+            "backgroundColor": "#A2D9B1",
+            "textColor": "#1E3A5D"
+          },
+          {
+            "step": "Receive",
+            "description": "Receive PPM and subscription documents",
+            "backgroundColor": "#5B9BD5",
+            "textColor": "#FFFFFF"
+          },
+          {
+            "step": "Fund",
+            "description": "Fund investment by deadline",
+            "backgroundColor": "#7D9F72",
+            "textColor": "#FFFFFF"
+          },
+          {
+            "step": "Track",
+            "description": "Track performance via investor portal",
+            "backgroundColor": "#D17A78",
+            "textColor": "#FFFFFF"
+          }
+        ]
+      },
+      {
+        "type": "qr_code",
+        "image": "qr_code_image_url_or_path",
+        "text": "SCAN ME",
+        "fontSize": "16px",
+        "position": "top-right"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

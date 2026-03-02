@@ -1,0 +1,73 @@
+{
+  "slide": {
+    "title": "Investment Classes",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "text",
+        "text": "Investment Class for Equity Raise",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "position": "top-left"
+      },
+      {
+        "table": {
+          "headers": [
+            "Class",
+            "Minimum Investment",
+            "Hold Period",
+            "Return Order"
+          ],
+          "rows": [
+            ["Class A", "$300K", "5 Years", "#1"],
+            ["Class B", "$100K", "5 Years", "#2"]
+          ],
+          "rowColors": ["#D88B4C", "#F2A343"],
+          "textColor": "#FFFFFF"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Capital Stack",
+        "fontSize": "20px",
+        "fontWeight": "bold",
+        "textColor": "#1E3A5D",
+        "position": "right-center"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Class B Preferred returns (7%)",
+          "Class A Preferred returns (17%)",
+          "Accounting & Asset Management",
+          "Mortgage"
+        ],
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D"
+      },
+      {
+        "type": "chart",
+        "chartType": "vertical_stack",
+        "data": {
+          "categories": ["1", "2", "3", "4"],
+          "values": [1, 2, 3, 4],
+          "labels": [
+            "Mortgage",
+            "Accounting & Asset Management",
+            "Class A Preferred returns (17%)",
+            "Class B Preferred returns (7%)"
+          ],
+          "colors": ["#1E3A5D", "#F2A343", "#D88B4C", "#F8B400"]
+        },
+        "position": "right-bottom"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

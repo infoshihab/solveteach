@@ -1,0 +1,118 @@
+{
+  "slide": {
+    "title": "Asset Management",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "grid",
+      "style": {
+        "background": "image",
+        "image": "asset_management_image",
+        "elements": [
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.05
+            },
+            "content": "B Asset Management",
+            "style": {
+              "font": "bold",
+              "size": "large",
+              "color": "#ffffff",
+              "background": "#2C3E50"
+            }
+          },
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.2
+            },
+            "content": "Pillars Of Cost Control",
+            "style": {
+              "font": "bold",
+              "size": "medium",
+              "color": "#ffffff",
+              "background": "#34495E"
+            }
+          },
+          {
+            "type": "section",
+            "position": {
+              "x": 0.05,
+              "y": 0.3
+            },
+            "content": [
+              {
+                "type": "icon_text",
+                "icon": "inspection_icon",
+                "text": "Property Oversight with regular inspection for smooth operations",
+                "style": {
+                  "background": "#2980B9",
+                  "color": "#ffffff",
+                  "font": "medium"
+                }
+              },
+              {
+                "type": "icon_text",
+                "icon": "expense_management_icon",
+                "text": "Strategic expense management to reduce overhead cost",
+                "style": {
+                  "background": "#27AE60",
+                  "color": "#ffffff",
+                  "font": "medium"
+                }
+              },
+              {
+                "type": "icon_text",
+                "icon": "budgeting_icon",
+                "text": "Monthly Financial Budgeting with centralized staffing for lower fixed cost",
+                "style": {
+                  "background": "#F39C12",
+                  "color": "#ffffff",
+                  "font": "medium"
+                }
+              }
+            ]
+          },
+          {
+            "type": "chart",
+            "position": {
+              "x": 0.55,
+              "y": 0.3
+            },
+            "content": {
+              "type": "pie",
+              "data": [
+                {
+                  "label": "Maintenance",
+                  "value": 33,
+                  "color": "#e74c3c"
+                },
+                {
+                  "label": "Management",
+                  "value": 25,
+                  "color": "#3498db"
+                },
+                {
+                  "label": "Utilities",
+                  "value": 25,
+                  "color": "#9b59b6"
+                },
+                {
+                  "label": "Reserves",
+                  "value": 17,
+                  "color": "#2ecc71"
+                }
+              ],
+              "style": {
+                "size": "large",
+                "show_legend": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

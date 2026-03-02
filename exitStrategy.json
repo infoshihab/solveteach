@@ -1,0 +1,48 @@
+{
+  "slide": {
+    "title": "Exit Strategy",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "item": "A",
+        "header": "Exit in 5 Years",
+        "details": [
+          "Current financing options of 10-year fixed rates on Freddie Mac loan confirmed!",
+          "Trigger to sale: NOI at or above $600K and Cap rate in the range of 6%-6.25% or lower"
+        ],
+        "icon": "exit_icon_url_or_path",
+        "backgroundColor": "#D4A736",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "item": "B",
+        "header": "CoStar Projection for Cap rate in the next 5 years",
+        "image": "costar_projection_image_url_or_path",
+        "text": "6% - 6.25% (range)\nGreater Houston markets\nUS Average",
+        "icon": "costar_icon_url_or_path",
+        "backgroundColor": "#F1C167",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "item": "C",
+        "header": "Cap Rate Compression and Decompression Sensitivity",
+        "chart": {
+          "type": "bar_chart",
+          "data": {
+            "labels": ["57,000,000", "53,000,000", "51,000,000", "51,000,000"],
+            "values": [57000000, 53000000, 51000000, 51000000],
+            "colors": ["#003366", "#004C99", "#005C8E", "#0066CC"]
+          },
+          "axisLabels": ["Higher Cap Rate", "Lower Cap Rate"]
+        },
+        "backgroundColor": "#5F4874",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

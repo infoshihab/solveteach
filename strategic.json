@@ -1,0 +1,58 @@
+{
+  "slide": {
+    "title": "Strategic Asset Management",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "year": 1,
+        "header": "Occupancy Rate",
+        "subheader": "95% Occupancy\nLower Turnover",
+        "data": "+08% YoY",
+        "icon": "house_icon_url_or_path",
+        "backgroundColor": "#D75F5F",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "year": 2,
+        "header": "Rent Growth",
+        "subheader": "Escalation 4%\nStill Below Market",
+        "data": "+10% YoY",
+        "icon": "rent_growth_icon_url_or_path",
+        "backgroundColor": "#6CBF5C",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "year": 3,
+        "header": "Delinquency Control",
+        "subheader": "<1.5% Delinquency\nHigh Collection",
+        "data": "+06% YoY",
+        "icon": "delinquency_control_icon_url_or_path",
+        "backgroundColor": "#F27C26",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "year": 4,
+        "header": "Cash-on-Cash Return",
+        "subheader": "Target 6.5% Return\nMonthly Dist.",
+        "data": "+07% YoY",
+        "icon": "cash_return_icon_url_or_path",
+        "backgroundColor": "#F2A04C",
+        "textColor": "#FFFFFF"
+      },
+      {
+        "year": 5,
+        "header": "Opex Efficiency",
+        "subheader": "OER < 40%\nPreventive Action",
+        "data": "+05% YoY",
+        "icon": "opex_efficiency_icon_url_or_path",
+        "backgroundColor": "#7DA4D5",
+        "textColor": "#FFFFFF"
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

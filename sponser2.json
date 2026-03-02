@@ -1,0 +1,64 @@
+{
+  "slide": {
+    "title": "Sponsor Team",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "section",
+        "header": "Factor 1",
+        "position": "top-left",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "items": [
+          {
+            "name": "Selcuk Alemdar",
+            "title": "Underwriter",
+            "image": "selcuk_ale_image_url_or_path"
+          },
+          {
+            "name": "Andrea Smith",
+            "title": "Underwriter",
+            "image": "andrea_smith_image_url_or_path"
+          },
+          {
+            "name": "Selcuk Alemdar",
+            "title": "Underwriter",
+            "image": "selcuk_ale_image_url_or_path"
+          },
+          {
+            "name": "Melinda Bell",
+            "title": "Deal Finder",
+            "image": "melinda_bell_image_url_or_path"
+          },
+          {
+            "name": "Selcuk Alemdar",
+            "title": "Underwriter",
+            "image": "selcuk_ale_image_url_or_path"
+          },
+          {
+            "name": "Cornelia Bernard",
+            "title": "Underwriter",
+            "image": "cornelia_bernard_image_url_or_path"
+          },
+          {
+            "name": "Jason C Mayfield",
+            "title": "Capital Raiser",
+            "image": "jason_mayfield_image_url_or_path"
+          },
+          {
+            "name": "Selcuk Alemdar",
+            "title": "Underwriter",
+            "image": "selcuk_ale_image_url_or_path"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}

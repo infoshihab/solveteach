@@ -1,0 +1,84 @@
+{
+  "slide": {
+    "title": "Sponsor Team",
+    "backgroundImage": "image_url_or_path",
+    "content": [
+      {
+        "type": "section",
+        "header": "Factor 1",
+        "position": "top-left",
+        "fontSize": "24px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "items": [
+          {
+            "name": "Sanjay Aggarwal",
+            "title": "Principal at Massive Capital",
+            "bio": [
+              "8+ years as active investor across asset classes (Land/SFR/Commercial/Multifamily)",
+              "Co-Sponsored 1000+ units across Texas with exit of 800+ units",
+              "10+ Years in Fortune 50 Companies (Capital One/Barclays) with numerous leadership roles in Portfolio and Strategy and Vendor Relationship",
+              "MBA from Booth School of Business (University of Chicago) and Masters in Mechanical Engineering from University of Central Florida"
+            ],
+            "image": "sanjay_image_url_or_path"
+          },
+          {
+            "name": "Shahriar Khan",
+            "title": "Principal at Massive Capital",
+            "bio": [
+              "4+ years as active investor purchasing over 180+ properties across asset classes (Land/SFR/Commercial/Multifamily)",
+              "Co-Sponsored 1,300+ units",
+              "13+ years in Fortune 10 Company (Royal Dutch Shell) with numerous leadership roles in Corporate Planning, Portfolio Strategy and Business Unit Finance Manager (CFO) looking over $5bn of Portfolio value",
+              "MBA from Jones School of Business (Rice University) and Undergraduate in Electrical Engineering from Prairie View A&M University"
+            ],
+            "image": "shahriar_image_url_or_path"
+          },
+          {
+            "name": "Mike Bailey",
+            "title": "Principal at Massive Capital",
+            "bio": [
+              "20+ years as Active Investor across asset classes (Land/SFR/Commercial/Multifamily)",
+              "Co-Sponsored 300+ units across Houston and Dallas market since 2021",
+              "30+ years in Fortune 10 Company (Conoco Phillips) with numerous leadership roles in Upstream Engineering managing project across multiple counties, Corporate Capital Strategy and Vendor Relationship",
+              "Bachelor of Science in Petroleum Engineering from University of Oklahoma"
+            ],
+            "image": "mike_image_url_or_path"
+          },
+          {
+            "name": "Selcuk Alemdar",
+            "title": "Principal at Ephesus Equity Partners",
+            "bio": [
+              "4+ years passive and active investing over 7 different projects totaling 1460 doors in multifamily and short-term rental industries",
+              "Co-Sponsor for 310 units",
+              "23+ years combined in Cement (Italcimenti Group), Construction, Fuel Industries with numerous positions in Management, Marketing and Ownership",
+              "Bachelor's Degree in Geology Engineering from Istanbul University, Construction Management Certification from Istanbul Technical University"
+            ],
+            "image": "selcuk_image_url_or_path"
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "header": "Track Record",
+        "position": "bottom-left",
+        "fontSize": "18px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#1E3A5D",
+        "items": [
+          { "label": "29 Deals", "value": "Completed to Date" },
+          { "label": "11 Full Cycle Deals", "value": "Completed to Date" },
+          { "label": "3,146 Units", "value": "Under Management" },
+          { "label": "$475M+", "value": "Assets Under Management" },
+          { "label": "Assets Owned", "value": "in CO, GA, NC, & TX" }
+        ]
+      }
+    ],
+    "footer": {
+      "text": "Vail Apartments",
+      "fontSize": "14px",
+      "textColor": "#F2C4A1"
+    }
+  }
+}
