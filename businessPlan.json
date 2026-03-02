@@ -1,0 +1,82 @@
+{
+  "slide": {
+    "title": "Business Plan",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "grid",
+      "style": {
+        "background": "image",
+        "image": "business_plan_image",
+        "elements": [
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.85
+            },
+            "content": "STEP 2",
+            "style": {
+              "font": "bold",
+              "size": "large",
+              "color": "#ffffff",
+              "background": "#b79b5f"
+            }
+          },
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.75
+            },
+            "content": "Business Plan",
+            "style": {
+              "font": "bold",
+              "size": "xx-large",
+              "color": "#ffffff",
+              "background": "#002f6c"
+            }
+          },
+          {
+            "type": "section",
+            "position": {
+              "x": 0.05,
+              "y": 0.55
+            },
+            "content": [
+              {
+                "type": "text",
+                "content": "A. Value Addition",
+                "style": {
+                  "font": "bold",
+                  "size": "medium",
+                  "color": "#ffffff",
+                  "background": "#4a90e2"
+                }
+              },
+              {
+                "type": "text",
+                "content": "B. Cost Control",
+                "style": {
+                  "font": "bold",
+                  "size": "medium",
+                  "color": "#ffffff",
+                  "background": "#f1c40f"
+                }
+              },
+              {
+                "type": "text",
+                "content": "C. Strategic Asset Management",
+                "style": {
+                  "font": "bold",
+                  "size": "medium",
+                  "color": "#ffffff",
+                  "background": "#e74c3c"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

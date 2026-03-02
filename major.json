@@ -1,0 +1,36 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "section": "Major Employers",
+    "major_employers": [
+      {
+        "name": "University of Houston (UH)",
+        "total_students": "47,000+",
+        "degree_programs": "300+"
+      },
+      {
+        "name": "Lone Star College (LSC)",
+        "total_students": "80,000+",
+        "certified_programs": "200+"
+      },
+      {
+        "name": "William P. Hobby Airport (HOU)",
+        "passengers_annually": "14.4M+"
+      },
+      {
+        "name": "George Bush Intercontinental Airport",
+        "passengers_annually": "45M+"
+      },
+      {
+        "name": "Memorial Hermann College",
+        "beds": 444,
+        "employees": 1800
+      },
+      {
+        "name": "Texas Medical Center (TMC)",
+        "beds": 9200,
+        "employees": "106,000+"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slide": {
+    "title": "Location Landmarks",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "map",
+      "style": {
+        "background": "image",
+        "image": "satellite_map",
+        "elements": [
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.2,
+              "y": 0.1
+            },
+            "content": "Bank of America",
+            "icon": "bank_of_america_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.3,
+              "y": 0.15
+            },
+            "content": "Home Depot",
+            "icon": "home_depot_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.4,
+              "y": 0.2
+            },
+            "content": "Walmart",
+            "icon": "walmart_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.5,
+              "y": 0.25
+            },
+            "content": "McDonald's",
+            "icon": "mcdonalds_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.6,
+              "y": 0.3
+            },
+            "content": "Starbucks",
+            "icon": "starbucks_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.7,
+              "y": 0.35
+            },
+            "content": "Chick-fil-A",
+            "icon": "chick_fil_a_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.8,
+              "y": 0.4
+            },
+            "content": "Pappasito's Cantina",
+            "icon": "pappasitos_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 0.9,
+              "y": 0.45
+            },
+            "content": "Chili's",
+            "icon": "chilis_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 1.0,
+              "y": 0.5
+            },
+            "content": "Logan's Roadhouse",
+            "icon": "logans_roadhouse_icon"
+          },
+          {
+            "type": "icon",
+            "position": {
+              "x": 1.1,
+              "y": 0.55
+            },
+            "content": "Cinemark",
+            "icon": "cinemark_icon"
+          }
+        ]
+      },
+      "malls": [
+        {
+          "name": "Northwest Marketplace",
+          "style": "image",
+          "image": "northwest_marketplace_image"
+        },
+        {
+          "name": "The Galleria",
+          "style": "image",
+          "image": "galleria_image"
+        },
+        {
+          "name": "Memorial City Mall",
+          "style": "image",
+          "image": "memorial_city_mall_image"
+        }
+      ]
+    }
+  }
+}

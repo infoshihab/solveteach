@@ -1,0 +1,21 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "document_type": "Capital Deployment & Returns",
+    "projected_returns": {
+      "avg_coc": "8.5%",
+      "equity_multiple": "2x",
+      "projected_cap_rate": "6-6.25%",
+      "project_annualized_ror": "18%"
+    },
+    "property": {
+      "price_per_unit": "$98,333",
+      "purchase_price": "$5,900,000",
+      "hold_period": "5 Years"
+    },
+    "investment_terms": {
+      "equity_required": "$2,300,000",
+      "minimum_investment": "$100,000"
+    }
+  }
+}

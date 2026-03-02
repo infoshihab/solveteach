@@ -1,0 +1,29 @@
+{
+  "slide": {
+    "title": "Property Overview",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "image",
+      "style": {
+        "background": "image",
+        "image": "property_kitchen_image",
+        "elements": [
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.85
+            },
+            "content": "Property Details - Unit Mix and Floor Plan Layout",
+            "style": {
+              "font": "bold",
+              "size": "large",
+              "color": "#ffffff",
+              "background": "#b79b5f"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

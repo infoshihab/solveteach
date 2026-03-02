@@ -1,0 +1,111 @@
+{
+  "slide": {
+    "width": 1440,
+    "height": 810,
+    "background": {
+      "type": "image",
+      "src": "apartment-background.jpg",
+      "overlayColor": "rgba(5,20,30,0.85)"
+    },
+    "elements": [
+      {
+        "id": "title",
+        "type": "text",
+        "content": "Disclaimer",
+        "position": { "x": 600, "y": 50 },
+        "style": {
+          "fontSize": 52,
+          "fontWeight": "bold",
+          "color": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "block-1",
+        "type": "infoBlock",
+        "icon": "dollar-sign",
+        "content": "This presentation is not an offer to invest and is for informational purposes only. Formal participation requires official legal documentation (PPM).",
+        "position": { "x": 160, "y": 150 },
+        "size": { "width": 1120, "height": 90 },
+        "style": {
+          "backgroundColor": "#B59B5B",
+          "color": "#000000"
+        }
+      },
+
+      {
+        "id": "block-2",
+        "type": "infoBlock",
+        "icon": "legal-advice",
+        "content": "We do not provide legal, tax, or financial advice. Investors should consult licensed professionals before making decisions.",
+        "position": { "x": 160, "y": 260 },
+        "size": { "width": 1120, "height": 90 },
+        "style": {
+          "backgroundColor": "#FFFFFF",
+          "color": "#000000"
+        }
+      },
+
+      {
+        "id": "block-3",
+        "type": "infoBlock",
+        "icon": "gavel",
+        "content": "This material is confidential and intended solely for the recipient; redistribution is prohibited.",
+        "position": { "x": 160, "y": 370 },
+        "size": { "width": 1120, "height": 90 },
+        "style": {
+          "backgroundColor": "#B59B5B",
+          "color": "#000000"
+        }
+      },
+
+      {
+        "id": "block-4",
+        "type": "infoBlock",
+        "icon": "money-document",
+        "content": "No funds or commitments will be accepted until proper exemptions and disclosures are finalized. Expressions of interest are non-binding.",
+        "position": { "x": 160, "y": 480 },
+        "size": { "width": 1120, "height": 90 },
+        "style": {
+          "backgroundColor": "#FFFFFF",
+          "color": "#000000"
+        }
+      },
+
+      {
+        "id": "block-5",
+        "type": "infoBlock",
+        "icon": "handshake-warning",
+        "content": "All investments involve risk. Future projections are based on assumptions and may differ materially from actual outcomes.",
+        "position": { "x": 160, "y": 590 },
+        "size": { "width": 1120, "height": 90 },
+        "style": {
+          "backgroundColor": "#B59B5B",
+          "color": "#000000"
+        }
+      },
+
+      {
+        "id": "footer-logo",
+        "type": "icon",
+        "name": "brand-logo",
+        "position": { "x": 40, "y": 760 },
+        "style": {
+          "size": 28,
+          "color": "#E8632A"
+        }
+      },
+
+      {
+        "id": "footer-text",
+        "type": "text",
+        "content": "VAIL APARTMENTS | 2",
+        "position": { "x": 1200, "y": 760 },
+        "style": {
+          "fontSize": 14,
+          "color": "#0F172A"
+        }
+      }
+    ]
+  }
+}

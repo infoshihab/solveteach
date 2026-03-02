@@ -1,0 +1,143 @@
+{
+  "slide": {
+    "width": 1440,
+    "height": 810,
+    "background": {
+      "type": "image",
+      "src": "apartment-background.jpg",
+      "overlayColor": "rgba(5,20,30,0.85)"
+    },
+    "elements": [
+      {
+        "id": "title",
+        "type": "text",
+        "content": "Key Focus Areas",
+        "position": { "x": 520, "y": 60 },
+        "style": {
+          "fontSize": 48,
+          "fontWeight": "bold",
+          "color": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "focus-highlight",
+        "type": "text",
+        "content": "Focus",
+        "position": { "x": 610, "y": 60 },
+        "style": {
+          "fontSize": 48,
+          "fontWeight": "bold",
+          "color": "#B59B5B"
+        }
+      },
+
+      {
+        "id": "circle-center",
+        "type": "shape",
+        "shape": "circle",
+        "position": { "x": 190, "y": 260 },
+        "size": { "width": 260, "height": 260 },
+        "style": {
+          "backgroundColor": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "segment-01",
+        "type": "arc",
+        "step": "01",
+        "icon": "money-rotation",
+        "style": {
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "id": "segment-02",
+        "type": "arc",
+        "step": "02",
+        "icon": "growth-steps",
+        "style": {
+          "color": "#B59B5B"
+        }
+      },
+      {
+        "id": "segment-03",
+        "type": "arc",
+        "step": "03",
+        "icon": "heart",
+        "style": {
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "id": "segment-04",
+        "type": "arc",
+        "step": "04",
+        "icon": "gear-check",
+        "style": {
+          "color": "#B59B5B"
+        }
+      },
+
+      {
+        "id": "item-1",
+        "type": "listItem",
+        "icon": "money-rotation",
+        "content": "Projected Investment Returns",
+        "position": { "x": 760, "y": 220 },
+        "style": {
+          "fontSize": 26,
+          "color": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "item-2",
+        "type": "listItem",
+        "icon": "growth-steps",
+        "content": "Step-by-Step Return Analysis",
+        "position": { "x": 760, "y": 310 },
+        "style": {
+          "fontSize": 26,
+          "color": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "item-3",
+        "type": "listItem",
+        "icon": "user",
+        "content": "Projected Returns For Investor",
+        "position": { "x": 760, "y": 400 },
+        "style": {
+          "fontSize": 26,
+          "color": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "item-4",
+        "type": "listItem",
+        "icon": "gear-check",
+        "content": "Return Assurance Factors",
+        "position": { "x": 760, "y": 490 },
+        "style": {
+          "fontSize": 26,
+          "color": "#FFFFFF"
+        }
+      },
+
+      {
+        "id": "footer",
+        "type": "text",
+        "content": "VAIL APARTMENTS | 2",
+        "position": { "x": 1180, "y": 760 },
+        "style": {
+          "fontSize": 14,
+          "color": "#0F172A"
+        }
+      }
+    ]
+  }
+}

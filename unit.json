@@ -1,0 +1,124 @@
+{
+  "slide": {
+    "title": "Unit Mix and Floor Plan Layout",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "grid",
+      "style": {
+        "background": "image",
+        "image": "unit_floor_plans_image",
+        "elements": [
+          {
+            "type": "chart",
+            "position": {
+              "x": 0.1,
+              "y": 0.15
+            },
+            "content": {
+              "type": "pie",
+              "data": [
+                {
+                  "label": "Total Units",
+                  "value": 411,
+                  "color": "#4A90E2"
+                },
+                {
+                  "label": "Renovated Units",
+                  "value": 384,
+                  "color": "#2C3E50"
+                }
+              ],
+              "style": {
+                "size": "medium",
+                "show_legend": true
+              }
+            }
+          },
+          {
+            "type": "text",
+            "position": {
+              "x": 0.1,
+              "y": 0.45
+            },
+            "content": "93% are either fully or partially renovated",
+            "style": {
+              "font": "bold",
+              "size": "medium",
+              "color": "#ffffff",
+              "background": "#2C3E50"
+            }
+          },
+          {
+            "type": "section",
+            "position": {
+              "x": 0.5,
+              "y": 0.1
+            },
+            "content": [
+              {
+                "type": "subsection",
+                "title": "1 BEDROOM",
+                "items": [
+                  {
+                    "type": "text",
+                    "content": "Bath: 1.5, Sqft: 796"
+                  },
+                  {
+                    "type": "image",
+                    "image": "1_bedroom_floor_plan_1"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Bath: 1, Sqft: 697"
+                  },
+                  {
+                    "type": "image",
+                    "image": "1_bedroom_floor_plan_2"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Bath: 1, Sqft: 550"
+                  },
+                  {
+                    "type": "image",
+                    "image": "1_bedroom_floor_plan_3"
+                  }
+                ]
+              },
+              {
+                "type": "subsection",
+                "title": "2 BEDROOM",
+                "items": [
+                  {
+                    "type": "text",
+                    "content": "Bath: 2, Sqft: 888"
+                  },
+                  {
+                    "type": "image",
+                    "image": "2_bedroom_floor_plan_1"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Bath: 1, Sqft: 888"
+                  },
+                  {
+                    "type": "image",
+                    "image": "2_bedroom_floor_plan_2"
+                  },
+                  {
+                    "type": "text",
+                    "content": "Bath: 1.5, Sqft: 1,217"
+                  },
+                  {
+                    "type": "image",
+                    "image": "2_bedroom_floor_plan_3"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

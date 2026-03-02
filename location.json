@@ -1,0 +1,16 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "section": "Location Overview",
+    "focus_areas": [
+      "Major Employers",
+      "Location Landmarks",
+      "Rent Comparables"
+    ],
+    "property_location": {
+      "address": "Goebel St & Eagle Lake Rd",
+      "city": "Houston",
+      "map": "Satellite view of Vail Apartments with nearby streets and landmarks"
+    }
+  }
+}

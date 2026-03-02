@@ -1,0 +1,29 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "document_type": "Executive Summary",
+    "highlights": [
+      "Very Well-Maintained Asset",
+      "High Median Income",
+      "Strategically Located"
+    ],
+    "details": {
+      "units": 60,
+      "year_built": 1982,
+      "last_renovated": {
+        "year_range": "2021-2024",
+        "cost": 1.1
+      },
+      "avg_unit_size": {
+        "size": 900,
+        "layout": "2B",
+        "units": "all"
+      }
+    },
+    "features": [
+      "Stabilized financing",
+      "Commuter range from Houston MSA",
+      "Lack of affordable workforce housing"
+    ]
+  }
+}

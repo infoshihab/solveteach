@@ -1,0 +1,17 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "section": "Population Growth",
+    "growth_details": {
+      "resident_growth": "1,012 residents",
+      "yearly_increase": "1.86%",
+      "projected_population": {
+        "2025": 8673,
+        "2026": 8915,
+        "2027": 9164,
+        "2028": 9421,
+        "2029": 9685
+      }
+    }
+  }
+}

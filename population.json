@@ -1,0 +1,15 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "section": "Past Population Number",
+    "population_trend": {
+      "median_household_income": "$68k+",
+      "yearly_increase": "1.86%",
+      "population_growth_chart": {
+        "x_axis": "Year",
+        "y_axis": "Population",
+        "trend": "Increasing"
+      }
+    }
+  }
+}

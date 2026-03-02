@@ -1,0 +1,21 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "step": "1",
+    "title": "Market Analysis",
+    "sections": [
+      {
+        "label": "A",
+        "title": "Market Overview"
+      },
+      {
+        "label": "B",
+        "title": "Location Overview"
+      },
+      {
+        "label": "C",
+        "title": "Property Overview"
+      }
+    ]
+  }
+}

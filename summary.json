@@ -1,0 +1,16 @@
+{
+  "company": {
+    "name": "Ephesus Equity Partners",
+    "slogan": "Investing Your Future"
+  },
+  "project": {
+    "name": "Vail Apartment",
+    "document_type": "Projected Investment Returns",
+    "sections": [
+      {
+        "title": "Executive Summary",
+        "sub_title": "Capital Deployment & Returns"
+      }
+    ]
+  }
+}

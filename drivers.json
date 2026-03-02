@@ -1,0 +1,27 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "section": "Economic Drivers",
+    "economic_drivers": [
+      {
+        "industry": "Energy (Oil & Gas)",
+        "residents_3_mile_radius": 131263,
+        "median_home_price": "$333,000",
+        "median_household_income_3_mile_radius": "$45,722"
+      },
+      {
+        "industry": "Energy (Oil)",
+        "total_labor_force_houston_msa": 3634817
+      },
+      {
+        "industry": "Energy (Oil & Gas)",
+        "residents_5_mile_radius": 313514,
+        "median_age_residents_3_mile_radius": 34.6
+      }
+    ],
+    "property_location": {
+      "name": "The Grove at Pinemont",
+      "city": "Houston"
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "slide": {
+    "title": "Property Overview",
+    "section": "Vail Apartments",
+    "layout": {
+      "type": "image",
+      "style": {
+        "background": "image",
+        "image": "property_building_image",
+        "elements": [
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.85
+            },
+            "content": "PROPERTY Details",
+            "style": {
+              "font": "bold",
+              "size": "large",
+              "color": "#ffffff",
+              "background": "#002f6c"
+            }
+          },
+          {
+            "type": "text",
+            "position": {
+              "x": 0.05,
+              "y": 0.75
+            },
+            "content": "Class B Location, Class B- Building",
+            "style": {
+              "font": "bold",
+              "size": "medium",
+              "color": "#ffffff",
+              "background": "#004f87"
+            }
+          },
+          {
+            "type": "box",
+            "position": {
+              "x": 0.05,
+              "y": 0.65
+            },
+            "content": [
+              {
+                "text": "411 Units / 318,772 SQFT",
+                "description": "Total SQFT",
+                "style": {
+                  "background": "#2e78a6",
+                  "color": "#ffffff",
+                  "font": "bold"
+                }
+              },
+              {
+                "text": "Northwest by US-290",
+                "description": "Location",
+                "style": {
+                  "background": "#1f6c6d",
+                  "color": "#ffffff",
+                  "font": "bold"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": {
+              "x": 0.55,
+              "y": 0.65
+            },
+            "content": [
+              {
+                "text": "Houston (2nd Largest Population Growth)",
+                "description": "MSA",
+                "style": {
+                  "background": "#4d7595",
+                  "color": "#ffffff",
+                  "font": "bold"
+                }
+              },
+              {
+                "text": "1977-78, 2018-23",
+                "description": "Construction | Recent Renovation",
+                "style": {
+                  "background": "#335c7f",
+                  "color": "#ffffff",
+                  "font": "bold"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "position": {
+              "x": 0.05,
+              "y": 0.55
+            },
+            "content": [
+              {
+                "text": "$32.38M ($79K/unit)",
+                "description": "Purchase Price",
+                "style": {
+                  "background": "#af9e5f",
+                  "color": "#ffffff",
+                  "font": "bold"
+                }
+              },
+              {
+                "text": "94.7%",
+                "description": "Occupancy",
+                "style": {
+                  "background": "#85b68b",
+                  "color": "#ffffff",
+                  "font": "bold"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

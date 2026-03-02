@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "Vail Apartments",
+    "step": "1A",
+    "title": "Market Overview",
+    "focus_areas": [
+      "Past Population Number",
+      "Population Growth",
+      "Economic Drivers"
+    ]
+  }
+}
