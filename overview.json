@@ -1,12 +1,72 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "step": "1A",
+  "slide": {
     "title": "Market Overview",
-    "focus_areas": [
-      "Past Population Number",
-      "Population Growth",
-      "Economic Drivers"
+    "subtitle": "Part A",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Part A",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Market Overview",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 450,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Past Population Number - Population Growth - Economic Drivers",
+        "style": {
+          "font_size": "22px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 150
+          },
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_building_image.jpg",
+        "position": {
+          "x": 10,
+          "y": 80
+        },
+        "size": {
+          "width": "350px",
+          "height": "250px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
     ]
   }
 }

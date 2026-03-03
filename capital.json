@@ -1,21 +1,177 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "document_type": "Capital Deployment & Returns",
-    "projected_returns": {
-      "avg_coc": "8.5%",
-      "equity_multiple": "2x",
-      "projected_cap_rate": "6-6.25%",
-      "project_annualized_ror": "18%"
-    },
-    "property": {
-      "price_per_unit": "$98,333",
-      "purchase_price": "$5,900,000",
-      "hold_period": "5 Years"
-    },
-    "investment_terms": {
-      "equity_required": "$2,300,000",
-      "minimum_investment": "$100,000"
-    }
+  "slide": {
+    "title": "Capital Deployment & Returns",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Capital Deployment & Returns",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Projected Returns",
+        "style": {
+          "font_size": "24px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 70
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "grid",
+        "rows": 2,
+        "columns": 3,
+        "cell_elements": [
+          {
+            "type": "card",
+            "title": "Projected Avg CoC",
+            "value": "8.5%",
+            "icon": "dollar_sign_icon",
+            "style": {
+              "background_color": "#F28F1F",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Equity Multiple",
+            "value": "2x",
+            "icon": "arrows_exchange_icon",
+            "style": {
+              "background_color": "#003B5C",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Projected Cap Rate",
+            "value": "6-6.25%",
+            "icon": "percentage_icon",
+            "style": {
+              "background_color": "#28A745",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Projected Annualized RoR",
+            "value": "18%",
+            "icon": "file_chart_icon",
+            "style": {
+              "background_color": "#F28F1F",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Property Price/Unit",
+            "value": "$98,333",
+            "icon": "home_icon",
+            "style": {
+              "background_color": "#003B5C",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Hold Period",
+            "value": "5 Years",
+            "icon": "clock_icon",
+            "style": {
+              "background_color": "#28A745",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          }
+        ]
+      },
+      {
+        "type": "grid",
+        "rows": 1,
+        "columns": 2,
+        "cell_elements": [
+          {
+            "type": "card",
+            "title": "Purchase Price",
+            "value": "$5,900,000",
+            "icon": "dollar_sign_icon",
+            "style": {
+              "background_color": "#F28F1F",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Equity Required",
+            "value": "$2,300,000",
+            "icon": "money_bag_icon",
+            "style": {
+              "background_color": "#003B5C",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          }
+        ]
+      },
+      {
+        "type": "card",
+        "title": "Minimum Investment",
+        "value": "$100,000",
+        "icon": "handshake_icon",
+        "style": {
+          "background_color": "#28A745",
+          "color": "#FFFFFF",
+          "border_radius": "10px",
+          "padding": "20px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
+    ]
   }
 }

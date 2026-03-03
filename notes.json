@@ -1,0 +1,91 @@
+{
+  "slide": {
+    "title": "Key Notes",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Appendix 3",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Key Notes",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 60,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Assumable Loan is a 30-year Fannie Mae Fixed Rate loan @4.99% with a maturity date of Nov-2030 (giving us an additional year to our 5-year Exit plan).",
+        "style": {
+          "font_size": "18px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 150
+          },
+          "color": "#FFFFFF",
+          "background_color": "#003B5C",
+          "padding": "10px"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Provision for CapEx Improvements includes a decent estimate of $4000 per door for Interior & Exterior CapEx combined.",
+        "style": {
+          "font_size": "18px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 220
+          },
+          "color": "#FFFFFF",
+          "background_color": "#003B5C",
+          "padding": "10px"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Reserves include Taxes, Insurance and Replacement Escrow reserves of $1.18M and Working Capital Reserve of $263K.",
+        "style": {
+          "font_size": "18px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 290
+          },
+          "color": "#FFFFFF",
+          "background_color": "#003B5C",
+          "padding": "10px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 450
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
+    ]
+  }
+}

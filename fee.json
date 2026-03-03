@@ -1,0 +1,123 @@
+{
+  "slide": {
+    "title": "Fee Disclosure",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Appendix 4",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Fee Disclosure",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 60,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "grid",
+        "rows": 1,
+        "columns": 4,
+        "cell_elements": [
+          {
+            "type": "icon_label",
+            "icon": "money_icon",
+            "label": "Acquisition Fee",
+            "value": "2%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "padding": "15px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_label",
+            "icon": "settings_icon",
+            "label": "Asset Management Fee",
+            "value": "2%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "padding": "15px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_label",
+            "icon": "pie_chart_icon",
+            "label": "Placeholder FEE",
+            "value": "A%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "padding": "15px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_label",
+            "icon": "home_icon",
+            "label": "Exit Capital Transaction Fee",
+            "value": "1%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "padding": "15px",
+              "text_align": "center"
+            }
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Note: These fees are already added into the pro forma and don’t affect your returns.",
+        "style": {
+          "font_size": "14px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 450
+          },
+          "color": "#003B5C",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 480
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "slide": {
+    "title": "Pro Forma",
+    "subtitle": "Annual Operating Cash Flow",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Appendix 2",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Pro Forma",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 60,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "table",
+        "columns": [
+          "Operating Revenue",
+          "Year-1",
+          "Year-2",
+          "Year-3",
+          "Year-4",
+          "Year-5"
+        ],
+        "rows": [
+          {
+            "name": "Average Monthly Rent ($)",
+            "values": ["1,074", "1,108", "1,186", "1,222", "1,258", "1,296"]
+          },
+          {
+            "name": "Average Monthly Rent PSF (Per sq ft)",
+            "values": ["1.38", "1.43", "1.57", "1.53", "1.67", "1.82"]
+          },
+          {
+            "name": "Annual Rent Increase (%)",
+            "values": ["3%", "3%", "3%", "3%", "3%", "3%"]
+          },
+          {
+            "name": "Gross Potential Revenue",
+            "values": [
+              "5,294,586",
+              "5,466,464",
+              "5,849,116",
+              "6,024,590",
+              "6,205,327",
+              "6,391,487"
+            ]
+          },
+          {
+            "name": "Vacancy",
+            "values": [
+              "(155,065)",
+              "(273,323)",
+              "(292,456)",
+              "(301,229)",
+              "(310,266)",
+              "(319,674)"
+            ]
+          },
+          {
+            "name": "Net Potential Revenue",
+            "values": [
+              "5,294,586",
+              "5,466,464",
+              "5,849,116",
+              "6,024,590",
+              "6,205,327",
+              "6,391,487"
+            ]
+          },
+          {
+            "name": "Operating Expenses",
+            "values": [
+              "776,557",
+              "771,388",
+              "802,244",
+              "834,333",
+              "867,707",
+              "902,415"
+            ]
+          },
+          {
+            "name": "Real Estate Taxes",
+            "values": [
+              "590,161",
+              "634,998",
+              "660,398",
+              "686,814",
+              "714,287",
+              "742,858"
+            ]
+          },
+          {
+            "name": "Payroll & Benefits",
+            "values": [
+              "523,868",
+              "534,345",
+              "485,502",
+              "495,212",
+              "505,116",
+              "515,219"
+            ]
+          },
+          {
+            "name": "Net Operating Income (NOI)",
+            "values": [
+              "2,493,479",
+              "2,590,175",
+              "2,590,175",
+              "3,034,515",
+              "3,179,551",
+              "3,507,506"
+            ]
+          }
+        ],
+        "style": {
+          "border": "1px solid #003B5C",
+          "header_background_color": "#003B5C",
+          "header_font_size": "14px",
+          "cell_font_size": "12px",
+          "text_align": "center",
+          "border_radius": "5px"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Key KPIs: Total Expenses as a % of Total Revenue, YoY Increase in NOI",
+        "style": {
+          "font_size": "14px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 600
+          },
+          "color": "#003B5C",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 650
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
+    ]
+  }
+}

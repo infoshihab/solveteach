@@ -1,35 +1,137 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "section": "Major Employers",
-    "major_employers": [
+  "slide": {
+    "title": "Major Employers",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
       {
-        "name": "University of Houston (UH)",
-        "total_students": "47,000+",
-        "degree_programs": "300+"
+        "type": "text",
+        "content": "Major Employers",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
       },
       {
-        "name": "Lone Star College (LSC)",
-        "total_students": "80,000+",
-        "certified_programs": "200+"
+        "type": "grid",
+        "rows": 2,
+        "columns": 3,
+        "cell_elements": [
+          {
+            "type": "card",
+            "title": "University of Houston (UH)",
+            "content": {
+              "subtitle": "# Total Students",
+              "value": "47,000+",
+              "subtitle_2": "Degree Programs",
+              "value_2": "300+"
+            },
+            "image": "path_to_uh_image.jpg",
+            "style": {
+              "background_color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "box_shadow": "0 4px 8px rgba(0,0,0,0.1)"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Lone Star College (LSC)",
+            "content": {
+              "subtitle": "# Total Students",
+              "value": "80,000+",
+              "subtitle_2": "Certified Programs",
+              "value_2": "200+"
+            },
+            "image": "path_to_lsc_image.jpg",
+            "style": {
+              "background_color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "box_shadow": "0 4px 8px rgba(0,0,0,0.1)"
+            }
+          },
+          {
+            "type": "card",
+            "title": "William P. Hobby Airport (HO)",
+            "content": {
+              "subtitle": "Passengers Annually",
+              "value": "14.4M+"
+            },
+            "image": "path_to_hobby_airport_image.jpg",
+            "style": {
+              "background_color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "box_shadow": "0 4px 8px rgba(0,0,0,0.1)"
+            }
+          },
+          {
+            "type": "card",
+            "title": "George Bush Intercontinental Airport",
+            "content": {
+              "subtitle": "Passengers Annually",
+              "value": "45M+"
+            },
+            "image": "path_to_iah_image.jpg",
+            "style": {
+              "background_color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "box_shadow": "0 4px 8px rgba(0,0,0,0.1)"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Memorial Hermann College",
+            "content": {
+              "subtitle": "# Beds",
+              "value": "444",
+              "subtitle_2": "# Employees",
+              "value_2": "1,800+"
+            },
+            "image": "path_to_memorial_hermann_image.jpg",
+            "style": {
+              "background_color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "box_shadow": "0 4px 8px rgba(0,0,0,0.1)"
+            }
+          },
+          {
+            "type": "card",
+            "title": "Texas Medical Center (TMC)",
+            "content": {
+              "subtitle": "# Beds",
+              "value": "9,200",
+              "subtitle_2": "# Employees",
+              "value_2": "106,000+"
+            },
+            "image": "path_to_tmc_image.jpg",
+            "style": {
+              "background_color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "box_shadow": "0 4px 8px rgba(0,0,0,0.1)"
+            }
+          }
+        ]
       },
       {
-        "name": "William P. Hobby Airport (HOU)",
-        "passengers_annually": "14.4M+"
-      },
-      {
-        "name": "George Bush Intercontinental Airport",
-        "passengers_annually": "45M+"
-      },
-      {
-        "name": "Memorial Hermann College",
-        "beds": 444,
-        "employees": 1800
-      },
-      {
-        "name": "Texas Medical Center (TMC)",
-        "beds": 9200,
-        "employees": "106,000+"
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
       }
     ]
   }

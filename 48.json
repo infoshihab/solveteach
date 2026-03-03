@@ -1,14 +1,13 @@
 {
   "slide": {
-    "title": "Location Overview",
-    "subtitle": "Part B",
+    "title": "Call or Scan to Book a Call Now",
     "background_image": "path_to_image_of_building_or_generic_background.jpg",
     "elements": [
       {
         "type": "text",
-        "content": "Part B",
+        "content": "Call at",
         "style": {
-          "font_size": "20px",
+          "font_size": "40px",
           "font_weight": "bold",
           "position": {
             "x": 10,
@@ -19,40 +18,53 @@
       },
       {
         "type": "text",
-        "content": "Location Overview",
+        "content": "206.850.9638",
         "style": {
-          "font_size": "40px",
+          "font_size": "60px",
           "font_weight": "bold",
           "position": {
-            "x": 450,
-            "y": 50
+            "x": 10,
+            "y": 70
           },
-          "color": "#003B5C"
+          "color": "#FFFFFF"
         }
       },
       {
         "type": "text",
-        "content": "Major Employers - Location Landmarks - Rent Comparables",
+        "content": "Directly or Scan the QR Code NOW",
         "style": {
-          "font_size": "22px",
+          "font_size": "32px",
           "font_weight": "normal",
           "position": {
-            "x": 50,
+            "x": 10,
             "y": 150
           },
           "color": "#FFFFFF"
         }
       },
       {
+        "type": "text",
+        "content": "to Book a Call Now",
+        "style": {
+          "font_size": "32px",
+          "font_weight": "normal",
+          "position": {
+            "x": 10,
+            "y": 200
+          },
+          "color": "#FFFFFF"
+        }
+      },
+      {
         "type": "image",
-        "src": "path_to_map_image.jpg",
+        "src": "path_to_qr_code.png",
         "position": {
-          "x": 50,
-          "y": 200
+          "x": 750,
+          "y": 100
         },
         "size": {
-          "width": "600px",
-          "height": "400px"
+          "width": "150px",
+          "height": "150px"
         }
       },
       {

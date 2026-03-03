@@ -1,17 +1,110 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "section": "Population Growth",
-    "growth_details": {
-      "resident_growth": "1,012 residents",
-      "yearly_increase": "1.86%",
-      "projected_population": {
-        "2025": 8673,
-        "2026": 8915,
-        "2027": 9164,
-        "2028": 9421,
-        "2029": 9685
+  "slide": {
+    "title": "Population Growth",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Population Growth",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "1,012 resident Growth",
+        "style": {
+          "font_size": "24px",
+          "font_weight": "normal",
+          "position": {
+            "x": 10,
+            "y": 80
+          },
+          "color": "#F28F1F"
+        }
+      },
+      {
+        "type": "text",
+        "content": "1.86% Yearly Increase",
+        "style": {
+          "font_size": "24px",
+          "font_weight": "normal",
+          "position": {
+            "x": 10,
+            "y": 130
+          },
+          "color": "#F28F1F"
+        }
+      },
+      {
+        "type": "chart",
+        "chart_type": "bar",
+        "data": [
+          {
+            "year": "2025",
+            "population": 8673,
+            "color": "#FFA500"
+          },
+          {
+            "year": "2026",
+            "population": 8915,
+            "color": "#008000"
+          },
+          {
+            "year": "2027",
+            "population": 9164,
+            "color": "#00BFFF"
+          },
+          {
+            "year": "2028",
+            "population": 9421,
+            "color": "#7FFF00"
+          },
+          {
+            "year": "2029",
+            "population": 9685,
+            "color": "#32CD32"
+          }
+        ],
+        "style": {
+          "position": {
+            "x": 200,
+            "y": 50
+          },
+          "width": "500px",
+          "height": "300px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_population_growth_image.png",
+        "position": {
+          "x": 750,
+          "y": 50
+        },
+        "size": {
+          "width": "150px",
+          "height": "150px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
       }
-    }
+    ]
   }
 }

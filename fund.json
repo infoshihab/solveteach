@@ -1,0 +1,235 @@
+{
+  "slide": {
+    "title": "Fund Management",
+    "subtitle": "Sources & Uses",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Appendix 3",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Fund Management",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 60,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "section",
+        "section_title": "Sources",
+        "items": [
+          {
+            "type": "label_value",
+            "label": "Total Debt Financing",
+            "value": "$22,581,800 | 59%",
+            "style": {
+              "background_color": "#F2A900",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 50,
+                "y": 150
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Equity Capital",
+            "value": "$15.1M | 41%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 300,
+                "y": 150
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Total Sources at Closing",
+            "value": "$37,181,800 | 100%",
+            "style": {
+              "background_color": "#F2A900",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 550,
+                "y": 150
+              },
+              "padding": "10px"
+            }
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "section_title": "Uses and Closing Costs",
+        "items": [
+          {
+            "type": "label_value",
+            "label": "Total Acquisition Costs",
+            "value": "$35,003,849 | 94%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 50,
+                "y": 250
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Purchase Price",
+            "value": "$32,384,596 | 87%",
+            "style": {
+              "background_color": "#F2A900",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 50,
+                "y": 300
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Closing Cost (excl Financing)",
+            "value": "$80,694 | 0%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 50,
+                "y": 350
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Acquisition Fee",
+            "value": "$647,692 | 2%",
+            "style": {
+              "background_color": "#F2A900",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 300,
+                "y": 300
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Loan Closing Costs",
+            "value": "$728,653 | 2%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 300,
+                "y": 350
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Provision for CapEx Improvements",
+            "value": "$1,890,600 | 5%",
+            "style": {
+              "background_color": "#F2A900",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 550,
+                "y": 300
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Operating Reserves & Working Capital",
+            "value": "$1,449,298 | 6%",
+            "style": {
+              "background_color": "#003B5C",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 550,
+                "y": 350
+              },
+              "padding": "10px"
+            }
+          },
+          {
+            "type": "label_value",
+            "label": "Total Uses and Closing",
+            "value": "$37,181,800 | 100%",
+            "style": {
+              "background_color": "#F2A900",
+              "font_size": "18px",
+              "font_weight": "bold",
+              "color": "#FFFFFF",
+              "position": {
+                "x": 550,
+                "y": 400
+              },
+              "padding": "10px"
+            }
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 450
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
+    ]
+  }
+}

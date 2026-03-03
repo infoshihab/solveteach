@@ -1,29 +1,163 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "document_type": "Executive Summary",
-    "highlights": [
-      "Very Well-Maintained Asset",
-      "High Median Income",
-      "Strategically Located"
-    ],
-    "details": {
-      "units": 60,
-      "year_built": 1982,
-      "last_renovated": {
-        "year_range": "2021-2024",
-        "cost": 1.1
+  "slide": {
+    "title": "EXECUTIVE SUMMARY",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Vail Apartments",
+        "style": {
+          "font_size": "30px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#E75C1D"
+        }
       },
-      "avg_unit_size": {
-        "size": 900,
-        "layout": "2B",
-        "units": "all"
+      {
+        "type": "text",
+        "content": "EXECUTIVE SUMMARY",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "icon": "home_icon",
+            "text": "Very Well-Maintained Asset"
+          },
+          {
+            "icon": "money_icon",
+            "text": "High Median Income"
+          },
+          {
+            "icon": "location_pin_icon",
+            "text": "Strategically Located"
+          }
+        ],
+        "style": {
+          "font_size": "20px",
+          "position": {
+            "x": 10,
+            "y": 100
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "table",
+        "columns": ["Units", "Year Built", "Last Renovated", "Avg. Unit Size"],
+        "rows": [
+          {
+            "label": "Units",
+            "value": "60"
+          },
+          {
+            "label": "Year Built",
+            "value": "1982"
+          },
+          {
+            "label": "Last Renovated",
+            "value": "2021-2024 ($1.1M)"
+          },
+          {
+            "label": "Avg. Unit Size",
+            "value": "900 SF, 2B (all units)"
+          }
+        ],
+        "style": {
+          "font_size": "16px",
+          "border": "1px solid #003B5C",
+          "header_background_color": "#003B5C",
+          "header_font_size": "18px",
+          "cell_font_size": "16px",
+          "text_align": "center",
+          "padding": "10px",
+          "border_radius": "5px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_property_image.jpg",
+        "position": {
+          "x": 50,
+          "y": 200
+        },
+        "size": {
+          "width": "300px",
+          "height": "200px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_kitchen_image.jpg",
+        "position": {
+          "x": 400,
+          "y": 200
+        },
+        "size": {
+          "width": "300px",
+          "height": "200px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_stabilized_financing_image.jpg",
+        "position": {
+          "x": 50,
+          "y": 450
+        },
+        "size": {
+          "width": "150px",
+          "height": "150px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_commuter_image.jpg",
+        "position": {
+          "x": 250,
+          "y": 450
+        },
+        "size": {
+          "width": "150px",
+          "height": "150px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_affordable_housing_image.jpg",
+        "position": {
+          "x": 450,
+          "y": 450
+        },
+        "size": {
+          "width": "150px",
+          "height": "150px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 600
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
       }
-    },
-    "features": [
-      "Stabilized financing",
-      "Commuter range from Houston MSA",
-      "Lack of affordable workforce housing"
     ]
   }
 }

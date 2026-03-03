@@ -1,20 +1,87 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "step": "1",
-    "title": "Market Analysis",
-    "sections": [
+  "slide": {
+    "title": "Market ANALYSIS",
+    "subtitle": "STEP 1",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
       {
-        "label": "A",
-        "title": "Market Overview"
+        "type": "text",
+        "content": "STEP 1",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#FFFFFF"
+        }
       },
       {
-        "label": "B",
-        "title": "Location Overview"
+        "type": "text",
+        "content": "Market ANALYSIS",
+        "style": {
+          "font_size": "50px",
+          "font_weight": "bold",
+          "position": {
+            "x": 450,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
       },
       {
-        "label": "C",
-        "title": "Property Overview"
+        "type": "button_group",
+        "buttons": [
+          {
+            "label": "A Market Overview",
+            "color": "#F28F1F",
+            "position": {
+              "x": 50,
+              "y": 150
+            },
+            "size": {
+              "width": "250px",
+              "height": "50px"
+            }
+          },
+          {
+            "label": "B Location Overview",
+            "color": "#F28F1F",
+            "position": {
+              "x": 50,
+              "y": 220
+            },
+            "size": {
+              "width": "250px",
+              "height": "50px"
+            }
+          },
+          {
+            "label": "C Property Overview",
+            "color": "#F28F1F",
+            "position": {
+              "x": 50,
+              "y": 290
+            },
+            "size": {
+              "width": "250px",
+              "height": "50px"
+            }
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
       }
     ]
   }

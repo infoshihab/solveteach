@@ -1,16 +1,38 @@
 {
-  "company": {
-    "name": "Ephesus Equity Partners",
-    "slogan": "Investing Your Future"
-  },
-  "project": {
-    "name": "Vail Apartment",
-    "document_type": "STEP-BY-STEP RETURN ANALYSIS",
-    "sections": [
+  "slide": {
+    "title": "STEP-BY-STEP RETURN ANALYSIS",
+    "subtitle": "Vail Apartment",
+    "backgroundImage": "image_url_or_path",
+    "logo": "ephesus_logo_url_or_path",
+    "footer": {
+      "text": "Business plan - Exist Strategies",
+      "fontSize": "16px",
+      "textColor": "#F2C4A1"
+    },
+    "content": [
       {
-        "title": "Market Analysis",
-        "sub_title": "Business plan - Exist Strategies"
+        "type": "text",
+        "text": "EPHESUS EQUITY PARTNERS",
+        "fontSize": "36px",
+        "fontWeight": "bold",
+        "textColor": "#FFFFFF",
+        "position": "top-center"
+      },
+      {
+        "type": "text",
+        "text": "INVESTING YOUR FUTURE",
+        "fontSize": "20px",
+        "fontWeight": "normal",
+        "textColor": "#F8B400",
+        "position": "top-center"
       }
-    ]
+    ],
+    "button": {
+      "text": "Investment Class - Sample Returns",
+      "backgroundColor": "#F8B400",
+      "textColor": "#FFFFFF",
+      "fontSize": "16px",
+      "position": "bottom-center"
+    }
   }
 }

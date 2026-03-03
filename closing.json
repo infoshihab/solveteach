@@ -1,0 +1,166 @@
+{
+  "slide": {
+    "title": "Closing Timeline",
+    "subtitle": "Important Dates",
+    "background_image": "path_to_image_of_building.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Appendix 1",
+        "style": {
+          "font_size": "20px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Closing Timeline",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 60,
+            "y": 50
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Jul. 17th",
+        "icon": "calendar_icon",
+        "text": "PSA Effective Date",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 50,
+            "y": 120
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Jul. 25th",
+        "icon": "money_icon",
+        "text": "Due Diligence begins",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 150,
+            "y": 200
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Aug. 5th",
+        "icon": "settings_icon",
+        "text": "Loan Assumption & Pref raise process begins",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 250,
+            "y": 280
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Aug. 28th",
+        "icon": "bar_chart_icon",
+        "text": "506(b) ends",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 350,
+            "y": 360
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Sep. 27th",
+        "icon": "bar_chart_icon",
+        "text": "506(c) ends",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 450,
+            "y": 440
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Oct. 4th",
+        "icon": "chart_icon",
+        "text": "Last Day to fund Commitments",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 550,
+            "y": 520
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "date_marker",
+        "date": "Oct. 16th",
+        "icon": "check_circle_icon",
+        "text": "Closing",
+        "style": {
+          "font_size": "16px",
+          "position": {
+            "x": 650,
+            "y": 600
+          },
+          "icon_size": "30px",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "text",
+        "content": "** We appreciate your support as we work through our ‘Contract to Close’ timeline **",
+        "style": {
+          "font_size": "14px",
+          "font_weight": "normal",
+          "position": {
+            "x": 50,
+            "y": 650
+          },
+          "color": "#003B5C",
+          "text_align": "center"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 700
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      }
+    ]
+  }
+}

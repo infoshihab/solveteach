@@ -1,15 +1,96 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "section": "Past Population Number",
-    "population_trend": {
-      "median_household_income": "$68k+",
-      "yearly_increase": "1.86%",
-      "population_growth_chart": {
-        "x_axis": "Year",
-        "y_axis": "Population",
-        "trend": "Increasing"
+  "slide": {
+    "title": "Past Population Number",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Past Population Number",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Median household income",
+        "style": {
+          "font_size": "24px",
+          "font_weight": "normal",
+          "position": {
+            "x": 10,
+            "y": 100
+          },
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "type": "text",
+        "content": "68k+",
+        "style": {
+          "font_size": "32px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 150
+          },
+          "color": "#F28F1F"
+        }
+      },
+      {
+        "type": "text",
+        "content": "1.86% Yearly Increase",
+        "style": {
+          "font_size": "24px",
+          "font_weight": "normal",
+          "position": {
+            "x": 10,
+            "y": 200
+          },
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_population_graph.png",
+        "position": {
+          "x": 300,
+          "y": 50
+        },
+        "size": {
+          "width": "400px",
+          "height": "300px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_demographic_icon.png",
+        "position": {
+          "x": 10,
+          "y": 250
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
       }
-    }
+    ]
   }
 }

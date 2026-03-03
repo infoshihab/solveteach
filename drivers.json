@@ -1,27 +1,146 @@
 {
-  "project": {
-    "name": "Vail Apartments",
-    "section": "Economic Drivers",
-    "economic_drivers": [
+  "slide": {
+    "title": "Economic Drivers",
+    "background_image": "path_to_image_of_building_or_generic_background.jpg",
+    "elements": [
       {
-        "industry": "Energy (Oil & Gas)",
-        "residents_3_mile_radius": 131263,
-        "median_home_price": "$333,000",
-        "median_household_income_3_mile_radius": "$45,722"
+        "type": "text",
+        "content": "Economic Drivers",
+        "style": {
+          "font_size": "40px",
+          "font_weight": "bold",
+          "position": {
+            "x": 10,
+            "y": 10
+          },
+          "color": "#E75C1D"
+        }
       },
       {
-        "industry": "Energy (Oil)",
-        "total_labor_force_houston_msa": 3634817
+        "type": "grid",
+        "rows": 2,
+        "columns": 3,
+        "cell_elements": [
+          {
+            "type": "icon_card",
+            "icon": "building_icon",
+            "title": "Energy (Oil & Gas)",
+            "value": "131,263",
+            "subtitle": "Residents 3-Mile Radius",
+            "style": {
+              "background_color": "#F28F1F",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_card",
+            "icon": "capitol_icon",
+            "title": "Energy (Oil)",
+            "value": "3,634,817",
+            "subtitle": "Total Labor Force Houston MSA",
+            "style": {
+              "background_color": "#003B5C",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_card",
+            "icon": "building_icon",
+            "title": "Energy (Oil & Gas)",
+            "value": "313,514",
+            "subtitle": "Residents 5-Mile Radius",
+            "style": {
+              "background_color": "#28A745",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_card",
+            "icon": "home_icon",
+            "title": "Median Home Price",
+            "value": "$333,000",
+            "style": {
+              "background_color": "#F28F1F",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_card",
+            "icon": "dollar_sign_icon",
+            "title": "Median Household Income",
+            "value": "$45,722",
+            "style": {
+              "background_color": "#003B5C",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          },
+          {
+            "type": "icon_card",
+            "icon": "group_icon",
+            "title": "Median Age of Residents",
+            "value": "34.6",
+            "style": {
+              "background_color": "#28A745",
+              "color": "#FFFFFF",
+              "border_radius": "10px",
+              "padding": "20px",
+              "text_align": "center"
+            }
+          }
+        ]
       },
       {
-        "industry": "Energy (Oil & Gas)",
-        "residents_5_mile_radius": 313514,
-        "median_age_residents_3_mile_radius": 34.6
+        "type": "image",
+        "src": "path_to_map_image.jpg",
+        "position": {
+          "x": 750,
+          "y": 100
+        },
+        "size": {
+          "width": "500px",
+          "height": "300px"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Property Location",
+        "style": {
+          "font_size": "24px",
+          "font_weight": "bold",
+          "position": {
+            "x": 750,
+            "y": 450
+          },
+          "color": "#003B5C"
+        }
+      },
+      {
+        "type": "image",
+        "src": "path_to_vail_apartments_logo.png",
+        "position": {
+          "x": 10,
+          "y": 550
+        },
+        "size": {
+          "width": "50px",
+          "height": "50px"
+        }
       }
-    ],
-    "property_location": {
-      "name": "The Grove at Pinemont",
-      "city": "Houston"
-    }
+    ]
   }
 }
